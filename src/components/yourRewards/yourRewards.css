@@ -1,0 +1,42 @@
+.yourRewards{
+    width: 35em;
+    height: 840px;
+    float: left;
+    margin-left: 85px;
+    border-radius: 8px;
+    margin-top: 35px;
+    box-shadow: 0 0 20px  #333;
+}
+
+h2{
+    margin-left: 50px;
+}
+
+.yr-inform{
+    border: gray solid 2px;
+    margin-left: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 95%;
+    height: 88%;
+    
+}
+.cart-ft1{
+    float: left;
+    width: 150px;
+    height: 225px;
+    margin-left: 20px;
+    margin-top: 20px;
+  
+}
+.img-rakts{
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+}
+.p-cl-inform{
+    color: black;
+    margin-left: 2px;
+    font-size: 18px;
+    text-align: center;
+}

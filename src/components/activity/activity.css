@@ -1,0 +1,53 @@
+.activity{
+    width: 30em;
+    height: 840px;
+    float: left;
+    margin-left: 20px;
+    border-radius: 13px;
+    margin-top: 33px;
+    box-shadow: 0 0 20px  #333;
+}
+
+.at-info{
+    border: gray solid 2px;
+    margin-left: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 95%;
+    height: 88%;
+  
+}
+
+.tsv-ts{
+    width: 95%;
+    height: 15%;
+    margin-left: 2.5%;
+   
+}
+
+.ts-cl-rart1{
+    float: left;
+    width: 100px;
+    height: 100px;
+  
+}
+
+.ts-cl-rart2{
+    float: left;
+    width: 75%;
+    height: 100px;
+  
+}
+
+.p-cl-tspg{
+    text-align: center;
+    margin-top: 33px;
+    margin-left: 50px;
+}
+
+.icoua{
+   margin-top: 41px;
+}
+.p-cl-po{
+    margin-top: 35px;
+}
